@@ -1,0 +1,17 @@
+Source: astyle
+Section: plugins
+Priority: optional
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: astyle
+Section: plugins
+Architecture: all
+XBSC-Group: Programming
+Description: Artistic Style Formatter
+ Reformat your sketches using the advanced Artistic Style
+ source code formatter.
+
+
+
